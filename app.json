@@ -1,15 +1,15 @@
 {
-    "name": "RIAS_GREMORY-BOT v1.0",
+    "name": "KING_DAV-BOT v1.0",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/EBUvKfB.jpeg",
-    "keywords": ["RIAS_GREMORY-BOT", "rais", "rais-Bot"],
+    "keywords": ["KING_DAV-BOT", "king", "king-bot"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "TOXXIC MD",
+        "value": "KING_D",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "RIAS_GREMORY-BOT"
+        "value": "KING_DAV-BOT"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
